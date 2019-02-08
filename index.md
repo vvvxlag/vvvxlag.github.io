@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to vvv.xl.ag at github
 
-You can use the [editor on GitHub](https://github.com/vvvxlag/vvvxlag.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are about to create this github page please visit:
+# [vvv.xl.ag](https://vvv.xl.ag) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
