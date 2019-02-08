@@ -9,3 +9,6 @@
 By Phone: 00316 19 123 151
 
 By E-Mail: info.vvv@xl.ag
+
+
+Copyright © 2019 vvv.xl.ag
